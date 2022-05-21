@@ -2,7 +2,7 @@ from PIL import ImageGrab, ImageOps
 import pyautogui
 import time
 import numpy as np
-    
+#testing 
 restart_coordinates = (480, 503)
 dino_coordinates = (207, 534)  
 area = (dino_coordinates[0] + 90, dino_coordinates[1], dino_coordinates[0] + 150, dino_coordinates[1] + 5)
